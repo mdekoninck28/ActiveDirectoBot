@@ -17,4 +17,4 @@ Une fois le fichier CSV rempli, lancer le script "*Script.ps1*" et répondre aux
 
 Le script doit être executé sur une machine du domaine avec un compte d'utilisateur **Administrateur du domaine**.
 
-L'identifiant de connexion (login) généré correspond aux deux premières lettre du prénom + le nom. Exemple pour Jean Dupont : "jedupont".
+L'identifiant de connexion (login) généré correspond aux deux premières lettre du prénom + le nom. Exemple pour Jean Dupont : "jedupont". Si un nom d'utilisateur existe déja dans l'annuaire, le compte concerné ne sera pas créé.
