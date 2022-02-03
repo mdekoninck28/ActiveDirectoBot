@@ -9,7 +9,7 @@ Une fois le fichier CSV rempli, lancer le script "*Script.ps1*" et répondre aux
 
    --> Nom du domaine : indiquer le nom du domaine Active Directory concerné. Il doit comporter un préfixe et ne pas avoir de sous-domaine. Exemple valide : "*test.local*".
     
-   --> Unité d'organisation racine : indiquer l'unité d'organisation à la racine de l'annuaire du accueillera les unités d'organisation enfant.
+   --> Unité d'organisation racine : indiquer l'unité d'organisation à la racine de l'annuaire qui accueillera les unités d'organisation enfant.
     
    --> Changement de mot de passe à la première ouverture de session : indiquer par *O* (oui) ou *N* (non) si les utilisateurs devront changer leur mot de passe lors de leur première connexion.
     
